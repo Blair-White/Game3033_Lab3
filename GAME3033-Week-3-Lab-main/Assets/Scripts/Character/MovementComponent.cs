@@ -5,13 +5,9 @@ using UnityEngine.InputSystem;
 
 public class MovementComponent : MonoBehaviour
 {
-
-
-
     [SerializeField] private float WalkSpeed;
     [SerializeField] private float RunSpeed;
     [SerializeField] private float JumpForce;
-
 
     // Components
 
